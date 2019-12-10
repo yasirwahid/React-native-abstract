@@ -1,0 +1,12 @@
+export const SIGNUP = 'SIGNUP';
+export const SIGNIN = 'SIGNIN';
+export const SIGNOUT = 'SIGNOUT';
+export const STATEUSER = 'STATEUSER';
+export const SIGNUP_SUCCESS = 'SIGNUP_SUCCESS';
+export const SIGNIN_SUCCESS = 'SIGNIN_SUCCESS';
+export const SIGNUP_FAILURE = 'SIGNUP_FAILURE';
+export const SIGNIN_FAILURE = 'SIGNIN_FAILURE';
+export const STATEUSER_SUCCESS = 'SIGNUP_SUCCESS';
+export const STATEUSER_FAILURE = 'STATEUSER_FAILURE';
+
+
